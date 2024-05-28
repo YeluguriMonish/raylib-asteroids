@@ -1,0 +1,4 @@
+/home/monish/code/raylib-asteroids/CMakeFiles/flecs.dir
+/home/monish/code/raylib-asteroids/CMakeFiles/asteroids.dir
+/home/monish/code/raylib-asteroids/CMakeFiles/edit_cache.dir
+/home/monish/code/raylib-asteroids/CMakeFiles/rebuild_cache.dir

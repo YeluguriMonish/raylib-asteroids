@@ -1,0 +1,2 @@
+/usr/bin/ar qc libflecs.a CMakeFiles/flecs.dir/lib/flecs/flecs.c.o
+/usr/bin/ranlib libflecs.a

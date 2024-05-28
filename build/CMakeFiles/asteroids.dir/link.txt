@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/asteroids.dir/src/main.cpp.o CMakeFiles/asteroids.dir/src/systems/systems.cpp.o CMakeFiles/asteroids.dir/src/entities/entities.cpp.o CMakeFiles/asteroids.dir/src/utils/utils.cpp.o CMakeFiles/asteroids.dir/src/globals/globals.cpp.o -o bin/asteroids  /usr/lib/libraylib.so libflecs.a -L/usr/lib -lraylib
